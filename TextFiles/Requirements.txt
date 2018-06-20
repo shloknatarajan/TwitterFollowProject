@@ -1,0 +1,23 @@
+#	Objectives for the project
+
+#	1. Check who is not following you and be able to mass unfollow
+#		A. Sort by oldest to newest unfollows/since you followed
+#	2. Check for accounts with explicit material and unfollow
+#	3. Keep a database of everyone you have unfollowed and don't allow to follow again in any operation
+#	4. Don't unfollow anyone that has sent a message
+#	5. Don't unfollow anyone you followed within the past week
+#	6. Be able to follow people based on certain queries such as...
+#		A. Who they are following
+#		B. Words contained in their bio
+#		C. Number of tweets
+
+# Make sure that the tokens aren't pushed to github
+
+
+New ideas:
+    research accounts that can compile data together
+    Research account tasks:
+        1. Follower mining list - compile a list of 2000
+        2. Filter out people with less than 150 followers
+        3. Upload data to a pandas database with the final list and date followed
+
